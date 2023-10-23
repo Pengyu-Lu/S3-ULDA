@@ -1,5 +1,6 @@
+# S3-ULDA
 Code for the paper 'Spectral-spatial and Superpixelwise Unsupervised Linear Discriminant Analysis for Feature Extraction and Classification of Hyperspectral Images' accepted by TGRS.
-![cite]
+```
 @article{lu2023s3ulda,
   title={Spectral-spatial and Superpixelwise Unsupervised Linear Discriminant Analysis for Feature Extraction and Classification of Hyperspectral Images,
   author={Pengyu Lu and Xinwei Jiang and Yongshan Zhang and Xiaobo Liu and Zhihua Cai and Junjun Jiang and Antonio Plaza},
@@ -7,7 +8,8 @@ Code for the paper 'Spectral-spatial and Superpixelwise Unsupervised Linear Disc
   year={2023},
   publisher={IEEE}
 }
-# S3-ULDA
+```
+
 Dimensionality reduction and classification of hyperspectral image based on S3-ULDA
 Models are tested on MATLAB R2016a
 
