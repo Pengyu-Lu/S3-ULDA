@@ -10,6 +10,7 @@ Code for the paper 'Spectral-spatial and Superpixelwise Unsupervised Linear Disc
 }
 ```
 
+
 Dimensionality reduction and classification of hyperspectral image based on S3-ULDA
 Models are tested on MATLAB R2016a
 
